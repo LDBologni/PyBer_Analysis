@@ -71,9 +71,10 @@ Suburban cities constitutes 30% revenue.
 Rural cities constitutes only for 7% of revenue.
 
 
-### Summary
+## Summary
 
-As is shown in the previous graphs, historically the Urban cities tend to be more saturated, meaning a greater population density in comparisson with Suburban and rural cities.
+As is shown in the previous graphs, historically the Urban cities tend to be more saturated, meaning a greater population density in comparisson with Suburban and rural cities. This translates to a higher demand of the service leading to a lower fare
+
 
 Urban cities seem to be saturated by drivers. It would be more profitable to review the number of drivers on Urban cities, and maybe to reallocate drivers from Urban to Rural and Suburban cities, to increase profitability as the average fare /driver in Rural and Suburban cities are much above average.
 
