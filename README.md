@@ -54,7 +54,7 @@ The number of drivers increase as we are moving from Rural to Urban cities. It d
 
 #### - Average Fare per Driver :
 
-The results shows that the average fare per driver drops significantly from Urban cities to Rural 55.49$ to 16.57$. Which translates that a driver in the rural area is far more profitable than a driver in the urban area.
+The results shows that the average fare per driver drops significantly from Urban cities to Rural 55.49$ to 16.57$. Which translates that a driver in the Rural area is far more profitable than a driver in the urban area.
 
 #### - Total Rides :
 
@@ -73,13 +73,6 @@ Rural cities constitutes only for 7% of revenue.
 
 ## Summary
 
-As is shown in the previous graphs, historically the Urban cities tend to be more saturated, meaning a greater population density in comparisson with Suburban and rural cities. This translates to a higher demand of the service leading to a lower fare
+As is shown in the previous graphs, historically the Urban cities tend to be more saturated, meaning a greater population density in comparisson with Suburban and Rural cities. This translates to a higher demand of the service, leading to a lower average fare of $24.53 against $30.97 in Suburban cities and $34.62 in Rural cities.
 
-
-Urban cities seem to be saturated by drivers. It would be more profitable to review the number of drivers on Urban cities, and maybe to reallocate drivers from Urban to Rural and Suburban cities, to increase profitability as the average fare /driver in Rural and Suburban cities are much above average.
-
-Review the fare policy among cities to make sure it is adapted to the local market, and to make the Byper services more attractive on Rural and suburban cities.
-
-Suggest some incentives to drive consistent usage and avoid having such disparities on revenues from week to week (Example: put in place a reward program per number of rides…)
-
-
+To lower the average fare for rides, the company could elaborate incentive programs for drivers as well for riders to increase the usage of the service in Suburban and Rural cities. The purporse of the incentives would be to increase the demand in this citites, meaning that will lead to a lower ride fare and possibly an increase of total revenue.
