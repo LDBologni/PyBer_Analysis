@@ -48,28 +48,32 @@ The analysis provides the following results:
 ![image](https://user-images.githubusercontent.com/98929742/159174392-4e253118-1999-47bf-b59e-a04f6d7b6ba9.png)
 
 
-### - Total Drivers :
+#### - Total Drivers :
 
 The number of drivers increase as we are moving from Rural to Urban cities. It drivers from Urban citites constitutes the 80.9% of Pyber drivers are operating, while in Urban cities constitutes only 2.6%.
 
-### - Average Fare per Driver :
+#### - Average Fare per Driver :
 
 The results shows that the average fare per driver drops significantly from Urban cities to Rural 55.49$ to 16.57$. Which translates that a driver in the rural area is far more profitable than a driver in the urban area.
 
-### - Total Rides :
+#### - Total Rides :
 
 The highest numbers of rides come from Urban cities with a 68.4% of the total. A 26.3%  for Suburban cities and 5.3% for rural cities.
 
-### - Average Fare per Ride :
+#### - Average Fare per Ride :
 
 On the opposite of total fares, as we are moving from Rural to Urban cities, the average fare per ride drops from 34.62$ to 24.53$. Which means rides in rural cities are more profitable.
 
-### - Total Fares :
+#### - Total Fares :
 
 The highest revenue comes from the Urban cities with a 63%.
 Suburban cities constitutes 30% revenue.
 Rural cities constitutes only for 7% of revenue.
 
+
+### Summary
+
+As is shown in the previous graphs, historically the Urban cities tend to be more saturated, meaning a greater population density in comparisson with Suburban and rural cities.
 
 Urban cities seem to be saturated by drivers. It would be more profitable to review the number of drivers on Urban cities, and maybe to reallocate drivers from Urban to Rural and Suburban cities, to increase profitability as the average fare /driver in Rural and Suburban cities are much above average.
 
