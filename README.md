@@ -75,4 +75,4 @@ Rural cities constitutes only for 7% of revenue.
 
 As is shown in the previous graphs, historically the Urban cities tend to be more saturated, meaning a greater population density in comparisson with Suburban and Rural cities. This translates to a higher demand of the service, leading to a lower average fare of $24.53 against $30.97 in Suburban cities and $34.62 in Rural cities.
 
-To lower the average fare for rides, the company could elaborate incentive programs for drivers as well for riders to increase the usage of the service in Suburban and Rural cities. The purporse of the incentives would be to increase the demand in this citites, meaning that will lead to a lower ride fare and possibly an increase of total revenue.
+To lower the average fare for rides, the company could elaborate incentive programs for drivers as well for riders to increase the usage of the service in Suburban and Rural cities. The purporse of the incentive would be to increase the demand in this citites, meaning that will lead to a lower ride fare and possibly an increase of total revenue.
